@@ -46,7 +46,7 @@ async def start(msg: types.Message):
     if os.path.exists(photo_path):
 
         caption = (
-            "▶️➡️ [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙏𝙊 𝙒𝘼𝙏𝘾𝙃 𝘿𝙀𝙈𝙊 𝙋𝙍𝙊𝙊𝙁](https://your-link.com)\n\n"
+            "▶️➡️ [𝘾𝙇𝙄𝘾𝙆 𝙃𝙀𝙍𝙀 𝙏𝙊 𝙒𝘼𝙏𝘾𝙃 𝘿𝙀𝙈𝙊 𝙋𝙍𝙊𝙊𝙁](https://t.me/Shelbypreviewbot?start=BQADAQADKw0AAkOGaESa3PDa4Iv_JRYE)\n\n"
             "😬 INTERESTED TO BUY VIDEOS ❓❓\n\n"
             "𝗔𝗻𝘆 𝗜𝘀𝘀𝘂𝗲, 𝗗𝗼𝘂𝗯𝘁 𝗼𝗿 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗙𝗲𝗲𝗹 𝗙𝗿𝗲𝗲 𝗧𝗼 𝗔𝘀𝗸 😬\n"
             "𝗛𝘆 𝗛𝘆𝗹𝗼 𝗯𝗿𝗼𝗼 𝙒𝙖𝙣𝙣𝙖 𝘽𝙪𝙮 𝙑𝙞𝙙𝙚𝙤𝙨 ???"
